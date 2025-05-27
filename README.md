@@ -136,7 +136,7 @@ void IRPAIR()
 ```
 
 ## OUTPUT
-object non  dedected:
+object noT  dedected:
 
 ![WhatsApp Image 2025-04-09 at 10 35 28_822c403d](https://github.com/user-attachments/assets/5d1b918f-969c-4bac-a2d2-a226f6c20aa8)
 
